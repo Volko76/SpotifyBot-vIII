@@ -1,0 +1,1 @@
+["C:\\Program Files\\OpenVPN\\config\\openvpn.ovpn","C:\\Program Files\\OpenVPN\\config\\openvpn2.ovpn"]
